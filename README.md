@@ -79,6 +79,8 @@ Now let's set up the radio part. This will broadcast all uploaded audio files on
 Download the PiFM software.
 
 	cd ~
+	mkdir pifm
+	cd pifm
 	wget http://omattos.com/pifm.tar.gz
 	tar xvzf pifm.tar.gz
 
