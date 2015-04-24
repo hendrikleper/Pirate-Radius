@@ -92,7 +92,7 @@ Create radio.sh:
 
 	nano radio.sh
 
-Copy/pase this script into radio.sh, and then save the file with Control-X, Y, and enter. Change the settings for the broadcast frequency and shuffling as needed.
+Copy/paste this script into radio.sh, and then save the file with Control-X, Y, and enter. Change the settings for the broadcast frequency and shuffling as needed.
 
 	#!/bin/bash
 
